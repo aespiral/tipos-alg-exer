@@ -1,6 +1,6 @@
 # Instruções
 
-Vídeo: 
+[Vídeo](https://youtu.be/xxsi2w2fe2Q)
 
 1. Revisite seu exercício anterior e expanda um pouco o modelo de dados
     * Inclua especialmente algum tipo soma
