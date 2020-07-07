@@ -9,4 +9,12 @@ Vídeo:
 3. Depois, tente usar o tipo `Option` como informação de alguma entidade ou em alguma
 consulta. Deixe duas versões da entidade/consulta
 
-Faça isso no arquivo `App.kt` na pasta `src/main/kotlin/aespiral`
+Crie um arquivo próprio na pasta `src/main/kotlin/aespiral` . 
+Experimente criar outro pacote (e, portanto, diretório) em
+`src/main/kotlin`
+
+Insira uma função _main_ no seu arquivo e construa ali um exemplo
+de uso de suas funções. Execute no botão _play_ verde que aparece
+na margem esquerda da mesma linha.
+
+Experimente o REPL. Use `import aespiral.*` para poupar a digitação de pacotes.
